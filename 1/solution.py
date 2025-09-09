@@ -38,7 +38,7 @@ def test_two_sum():
 
 # Example usage:
 if __name__ == "__main__":
-    test_two_sum()
+    test_two_sum() # Run tests
     nums = [10, 15, 3, 7]
     k = 17
     print(two_sum(nums, k))  # Output: True
