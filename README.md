@@ -5,3 +5,4 @@
 [#3](https://github.com/rusuraluca/dcp/blob/main/3/solution.py),
 [#4](https://github.com/rusuraluca/dcp/blob/main/4/solution.py),
 [#5](https://github.com/rusuraluca/dcp/blob/main/5/solution.py),
+[#6](https://github.com/rusuraluca/dcp/blob/main/6/solution.py),
