@@ -25,6 +25,7 @@ Follow-up: what if you can't use division?
 # where n is the number of elements in the input array.
 from typing import List
 
+
 def product_array(arr: List[int]) -> List[int]:
     n = len(arr)
     if n == 0:
