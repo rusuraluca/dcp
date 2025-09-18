@@ -9,3 +9,4 @@
 [#7](https://github.com/rusuraluca/dcp/blob/main/7/solution.py),
 [#8](https://github.com/rusuraluca/dcp/blob/main/8/solution.py),
 [#9](https://github.com/rusuraluca/dcp/blob/main/9/solution.py),
+[#10](https://github.com/rusuraluca/dcp/blob/main/10/solution.py),
